@@ -1,6 +1,7 @@
 /**
  * Created by zhangtianzuo on 2017/8/16.
  */
+//每个数字由10行7列的矩阵表示，0表示没有小球，1表示有小球，从digit[0]-digit[9]存放了0-9这10个数字的表示，digit[10]存放着冒号的表示
 var digit =
     [
         [
